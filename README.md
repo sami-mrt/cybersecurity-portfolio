@@ -37,8 +37,6 @@ I use TryHackMe to develop my practical cybersecurity skills through hands-on la
 
 ## 📂 Projects
 
-## Portfolio Projects
-
 ### Network Security
 
 - **TCP SYN Flood Analysis**  
