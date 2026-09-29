@@ -24,6 +24,8 @@ Currently developing experience with:
 - Linux
 - SQL
 - Python
+- SIEM tools
+- ...
 
 ## 🎓 Training & Certifications
 - Google Cybersecurity Professional Certificate - **In Progress**
