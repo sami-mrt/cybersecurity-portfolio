@@ -39,6 +39,10 @@ I use TryHackMe to develop my practical cybersecurity skills through hands-on la
 
 ### Network Security
 
+- **NIST CSF Incident Response Analysis**  
+  Analysis of a simulated ICMP flood Denial-of-Service (DoS) attack using the five core functions of the NIST Cybersecurity Framework (NIST CSF): Identify, Protect, Detect, Respond, and Recover.  
+  [View project](./network-security/nist-incident-response/)
+
 - **TCP SYN Flood Analysis**  
   Investigation of a simulated Denial-of-Service attack using
   Wireshark and analysis of TCP connection behavior.  
